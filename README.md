@@ -1,0 +1,2 @@
+# knapsack
+Solving knapsack problem
